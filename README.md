@@ -14,7 +14,7 @@ Modern ve kullanıcı dostu bir web tasarım uygulaması. React ve Tailwind CSS 
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adınız]/web-design-app.git
+[git clone https://github.com/[kullanıcı-adınız]/web-design-app.git](https://github.com/oztekinzeynepnur/web-design-app.git)
 ```
 
 2. Proje dizinine gidin:
@@ -58,4 +58,4 @@ npm start
 
 Proje Sahibi - [@github-oztekinzenepnur](https://github.com/github-oztekinzenepnur)
 
-Proje Linki: [https://github.com/github-username/web-design-app](https://github.com/github-username/web-design-app) 
+Proje Linki: [[https://github.com/github-username/web-design-app](https://github.com/github-username/web-design-app) ](https://github.com/oztekinzeynepnur/web-design-app.git)
